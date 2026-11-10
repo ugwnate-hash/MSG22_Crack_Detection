@@ -8,6 +8,9 @@ Ce projet implémente des algorithmes d'apprentissage supervisé (Réseaux de Ne
 * Clément Desodt
 * Xavier Jourdain
 
+## Elève: 
+* Nathan Ugwonali
+
 ## Objectifs du projet
 1. **Classification binaire** : Distinguer les images de maçonnerie saines (Classe 0) des images présentant des fissures (Classe 1).
 2. **Comparaison d'architectures** : Évaluer les performances d'un Perceptron Multicouche (MLP) par rapport à des Réseaux de Neurones Convolutifs (ConvNet).
